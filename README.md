@@ -32,6 +32,18 @@ Only the data sources need to be changed.
 
 [Link to modified Google Colaboratory file](https://colab.research.google.com/drive/1ERufMLmkJc5DEVfeJ6R5VDNAQts3zv7W?usp=sharing)
 
+## Testing for Google:
+
+* Average absolute error = $711.9186258
+* Method testing is similar to above. GOOG.csv is used for historical data - 7274 rows
+* 53333 news articles scraped out of which 11587 are from popular sources
+* Macro-trends URLs:
+1) [PE Ratio](https://www.macrotrends.net/stocks/charts/GOOG/alphabet/pe-ratio)
+2) [ROA](https://www.macrotrends.net/stocks/charts/GOOG/alphabet/roa)
+3) [Net Income](https://www.macrotrends.net/stocks/charts/GOOG/alphabet/net-income)
+
+[Link to modified Google Colaboratory file](https://colab.research.google.com/drive/1TnriOW2sbgmpoi07gdaTaADJWOUqUeJX?usp=sharing)
+
 # Drive Link for Models and Files 
 The code reads files from a Drive location. Link for that location is:
 [Link to Drive folder](https://drive.google.com/drive/folders/1-93t2iua9ay94NTHCCQPVo2Xe-WG3W_B?usp=sharing)
