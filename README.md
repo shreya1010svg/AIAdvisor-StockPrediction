@@ -12,7 +12,7 @@ Output is subject to the articles scraped by the GoogleNews API.
 Only the data sources need to be changed.
 
 * googlenews.search("Amazon") - gave 69345 articles on scraping and 17114 on filtering by source popularity
-* AMZN.csv is uploaded in the testing data folder for historical data - 6025 rows
+* AMZN.csv is uploaded for historical data - 6025 rows
 * Change the URLs for Macro-trends attributes and change the column name of the URL scraped.
 1) [PE Ratio](https://www.macrotrends.net/stocks/charts/AMZN/amazon/pe-ratio)
 2) [ROA](https://www.macrotrends.net/stocks/charts/AMZN/amazon/roa)
