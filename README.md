@@ -24,7 +24,7 @@ Only the data sources need to be changed.
 
 * Average absolute error = $18.7756492
 * Method testing is similar to above. MSFT.csv is used for historical data - 8926 rows
-* 56940 news articles scraped out of whicj 8421 are from popular sources
+* 56940 news articles scraped out of which 8421 are from popular sources
 * Macro-trends URLs:
 1) [PE Ratio](https://www.macrotrends.net/stocks/charts/MSFT/microsoft/pe-ratio)
 2) [ROA](https://www.macrotrends.net/stocks/charts/MSFT/microsoft/roa)
@@ -43,6 +43,19 @@ Only the data sources need to be changed.
 3) [Net Income](https://www.macrotrends.net/stocks/charts/GOOG/alphabet/net-income)
 
 [Link to modified Google Colaboratory file](https://colab.research.google.com/drive/1TnriOW2sbgmpoi07gdaTaADJWOUqUeJX?usp=sharing)
+
+## Testing for Apple:
+
+* Average absolute error = $11.23114
+* Method testing is similar to above. AAPL.csv is used for historical data - 10117 rows
+* 60179 news articles scraped out of which 7200 are from popular sources
+* Macro-trends URLs:
+1) [PE Ratio](https://www.macrotrends.net/stocks/charts/AAPL/apple/pe-ratio)
+2) [ROA](https://www.macrotrends.net/stocks/charts/AAPL/apple/roa)
+3) [Net Income](https://www.macrotrends.net/stocks/charts/AAPL/apple/net-income)
+
+[Link to modified Google Colaboratory file](https://colab.research.google.com/drive/1wopiH5wrKgi4ByOtJ5oLVp16dnxssSdL?usp=sharing)
+
 
 # Drive Link for Models and Files 
 The code reads files from a Drive location. Link for that location is:
