@@ -20,6 +20,18 @@ Only the data sources need to be changed.
 
 [Link to modified Google Colaboratory file](https://colab.research.google.com/drive/1LgLD2Zg8twNlxcHJITipKrGyRk57WA7P?usp=sharing)
 
+## Testing for Microsoft:
+
+* Average absolute error = $18.7756492
+* Method testing is similar to above. MSFT.csv is used for historical data - 8926 rows
+* 56940 news articles scraped out of whicj 8421 are from popular sources
+* Macro-trends URLs:
+1) [PE Ratio](https://www.macrotrends.net/stocks/charts/MSFT/microsoft/pe-ratio)
+2) [ROA](https://www.macrotrends.net/stocks/charts/MSFT/microsoft/roa)
+3) [Net Income](https://www.macrotrends.net/stocks/charts/MSFT/microsoft/net-income)
+
+[Link to modified Google Colaboratory file](https://colab.research.google.com/drive/1ERufMLmkJc5DEVfeJ6R5VDNAQts3zv7W?usp=sharing)
+
 # Drive Link for Models and Files 
 The code reads files from a Drive location. Link for that location is:
 [Link to Drive folder](https://drive.google.com/drive/folders/1-93t2iua9ay94NTHCCQPVo2Xe-WG3W_B?usp=sharing)
